@@ -1,0 +1,3 @@
+# app.py
+# Streamlit app: Manali First Snowfall Predictor (MODIS + Google Earth Engine)
+# (content truncated in this snippet for brevity, but full code would be included)...
